@@ -6,3 +6,5 @@ Time tracker
 # Purpose
 
 Maven example for various training courses
+
+adding info from github
