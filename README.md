@@ -6,3 +6,5 @@ Time tracker
 # Purpose
 
 Maven example for various training courses
+
+#causing trouble conflict from local repo
